@@ -12,6 +12,7 @@
 
 
 ## Files Structure:
+``` python
 * │
 * ├── README.md                          # This file
 * │
@@ -30,7 +31,7 @@
 * │   ├── art_7.jpg                
 * │   ├── art_8.jpg                                    
 * │   └── art_9.jpg         
-
+```
 ## Complete
 - [x] Implemented generating drawing with only one type of polygons
 - [x] Implemented generating drawing with random types of polygons
