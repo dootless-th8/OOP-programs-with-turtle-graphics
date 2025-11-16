@@ -14,12 +14,12 @@
 ## Files Structure:
 ``` python
 * │
-* ├── README.md                          # This file
+* ├── README.md                         # This file
 * │
 * ├── polygon_programs/
 * │   ├── oo_polygon_art_modified.py    # Integrate GUI to look through arts easier
 * │   ├── procederal_polygon_art.py     # Without integrating oop. Just there for authencity
-* │   └── oo_polygon_art.py.py     # The one for sending
+* │   └── oo_polygon_art.py             # The one for sending
 * │
 * ├── art_catalouges/                   # Store all jpgs of the arts
 * │   ├── art_1.jpg                
