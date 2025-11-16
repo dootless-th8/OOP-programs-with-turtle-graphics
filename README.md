@@ -36,3 +36,4 @@
 - [x] Implemented generating drawing with random types of polygons
 - [x] Implemented generating drawing with only one type of silhouette-esque polygons
 - [x] Implemented generating drawing with random types of silhouette-esque polygons
+- [x] No errors, if according to the doc files where there is no error handling
